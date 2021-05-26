@@ -1,4 +1,4 @@
-# PomodoroTimer Application
+# Pomodoro Timer Application
 
 ## Application Proposal
 
@@ -16,3 +16,8 @@ This application will be used by **students** who need help not to procrastinate
 - As a user, I want a star to be added once a study duration ends
 - As a user, I want the correct messages to be displayed on the application
 - As a user, I want an alarm to go off after each duration ends
+
+## Example Images
+
+<img width="285" alt="PomodoroTimer" src="https://user-images.githubusercontent.com/84819021/119588537-e2e6ab00-bd85-11eb-9ae9-4108ab8b067c.PNG"> <img width="284" alt="PomodoroTimer2" src="https://user-images.githubusercontent.com/84819021/119588650-1c1f1b00-bd86-11eb-8012-0c98b156175a.PNG">
+
